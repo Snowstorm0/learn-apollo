@@ -1,6 +1,6 @@
  使用 Apollo 配置参数。
 
- 在运行项目之前需要修改 resource/application.properties 中 apollo.meta 的值，将 localhost 替换为 apollo 的地址，端口号为 Eureka 的端口号（默认为8080）
+ 在运行项目之前需要修改 resource/application.properties 中 apollo.meta 的值，将 localhost 替换为 apollo 的地址，端口号为 Eureka 的端口号（默认为8080）。
 
 
 &nbsp;
